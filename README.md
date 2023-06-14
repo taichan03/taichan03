@@ -1,5 +1,5 @@
 <div align='center'>
- <image src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFmMTUwMGIyZTVjNTRiMTY4ZmIzNjdkMjg4ZDY4NmRlZmFmNzE3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Z4w6YDHh9uRq6QtamB/giphy.gif" width="240" height="130" >
+ <image src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFmMTUwMGIyZTVjNTRiMTY4ZmIzNjdkMjg4ZDY4NmRlZmFmNzE3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Z4w6YDHh9uRq6QtamB/giphy.gif" width="240" height="180" >
 </div>
 <h3 align="center">
   Hey! My name is Tai, I am a
