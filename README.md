@@ -33,12 +33,11 @@
 
 ## Stats:
 
-![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshao728&theme=omni&custom_title=Languages&langs_count=3)
-![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshao728&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32)
+![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taichan03&theme=omni&custom_title=Languages&langs_count=3)
+![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichan03&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32)
 </br>
 
 ## Let's Get Connected!
 
-<a href="https://www.linkedin.com/in/keyingshao/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://angel.co/u/kelly_shao" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
-<a href="mailto:kellyshao728@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/tai-chan/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:tai.c.chan3@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
