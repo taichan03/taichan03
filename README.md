@@ -26,12 +26,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Stats:
-
-![Tai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taichan03&theme=omni&custom_title=Languages&langs_count=3)
-![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichan03&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32)
-</br>
-
 ## Let's Get Connected!
 
 <a href="https://www.linkedin.com/in/tai-chan/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
